@@ -63,6 +63,5 @@ Since the distribution on day 400 has significantly decreased, the grouping crea
 Reservations with a maximum lead time of 1 month have the lowest cancellation rate. The longer the lead time, the higher the probability of canceling the hotel booking.
 <a name="summary"></a>
 ## Summary
-Hubungkan antara pertanyaan di research question dengan jawaban berdasarkan analisis yang sudah dilakukan
 City hotels have a booking percentage of 33.08% compared to resort hotels. Where the percentage of city hotel reservations is 66.54%, while resort hotels are only 33.46%. However, there is an increase in bookings at both types of hotels during the holiday season (in July and September)
 In addition, the duration of the stay and the length of the lead time affect the hotel cancellation rate. The longer the duration of stay and the lead time in hotel bookings, the higher the cancellation rate of hotel room reservations.
