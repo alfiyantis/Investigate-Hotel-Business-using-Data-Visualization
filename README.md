@@ -56,7 +56,7 @@ To find out the relationship between lead time and the rate of cancellation of h
 
 ![fig5](https://user-images.githubusercontent.com/105115689/187035426-45ba4228-b13e-41cd-a0d0-5af195191b30.png)
 
-Since the distribution on day 400 has significantly decreased, the grouping created by month until it reaches around that day (390 days to be precise). To simplify the visualization process, lead times are grouped by month. Then make the cancellation rate column based on hotel type and lead time group.
+Since the distribution on day 400 has significantly decreased, the grouping created by month until it reaches around that day (390 days to be precise). To simplify the visualization process, lead times are grouped by month. Then, cancellation rate column is created based on hotel type and lead time group.
 
 ![fig6](https://user-images.githubusercontent.com/105115689/187036519-d8b0b900-c4a1-4c28-b89e-4187baa69b87.png)
 
